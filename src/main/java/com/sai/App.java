@@ -12,6 +12,7 @@ public class App
 		int a =10;
 
         string h="hi";
+		string b ="bye";
 
         System.out.println( "Hello World!" );
     }
